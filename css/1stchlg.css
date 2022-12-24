@@ -1,0 +1,24 @@
+body{
+    background-color:hsl(212, 45%, 89%);
+}
+p{
+    text-align: center;
+}
+img{
+    border-radius: 10px;
+    width:290px ;
+    height: 280px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+div{
+    position:absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 9px;
+    background-color: hsl(0, 0%, 100%);
+    padding: 10px;
+
+}
